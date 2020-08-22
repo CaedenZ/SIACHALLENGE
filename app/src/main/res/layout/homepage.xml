@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/orange1"
+    tools:context=".Homepage">
+
+    <TextView
+        android:id="@+id/mainTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="100dp"
+        android:fontFamily="@font/roboto_condensed_bold"
+        android:text="WELCOME"
+        android:textAlignment="center"
+        android:textColor="#111111"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/whitebox"
+        android:layout_width="450dp"
+        android:layout_height="400dp"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/mainTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="100dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginRight="80dp"
+        android:ems="10"
+        android:alpha="0.9"
+        android:background="@drawable/roundbox"
+        android:fadingEdge="horizontal|vertical"
+        android:fadingEdgeLength="@android:dimen/dialog_min_width_major"
+        android:fontFamily="@font/roboto"
+        android:textSize="20dp" />
+
+    <TextView
+        android:id="@+id/services"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/mainTitle"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="130dp"
+        android:fontFamily="@font/montserrat"
+        android:text="Our services"
+        android:textAlignment="center"
+        android:textColor="#111111"
+        android:textSize="25dp" />
+
+
+
+
+</RelativeLayout>
