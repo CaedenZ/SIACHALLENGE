@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">Steamedboat</string>
+    <string name="app_name">SIAapp</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="title_activity_add_member">AddMember</string>
-
+    <string name="msg_subscribed">Subscribed</string>
+    <string name="msg_subscribe_failed">Subscribed Failed</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
     <string-array name="currency">
         <item>SGD</item>
         <item>EUR</item>
