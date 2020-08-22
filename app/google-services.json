@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "751679463022",
+    "firebase_url": "https://siacat2-11cd2.firebaseio.com",
+    "project_id": "siacat2-11cd2",
+    "storage_bucket": "siacat2-11cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751679463022:android:b0c9bf4ff312811821107f",
+        "android_client_info": {
+          "package_name": "com.example.siachallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751679463022-8bfdb0pe22g02in3qplbblvpjkgfnqk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIkuYAlUzpmgDRCV_V7XT0y_mYdwb9n-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751679463022-8bfdb0pe22g02in3qplbblvpjkgfnqk0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
