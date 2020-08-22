@@ -3,6 +3,7 @@
     <array name="preloaded_fonts" translatable="false">
         <item>@font/abhaya_libre</item>
         <item>@font/abhaya_libre_bold</item>
+        <item>@font/advent_pro</item>
         <item>@font/advent_pro_bold</item>
         <item>@font/cairo</item>
         <item>@font/montserrat</item>
